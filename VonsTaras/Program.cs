@@ -6,9 +6,7 @@ namespace VonsTaras
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            //retest
+            Console.WriteLine("Hello Vons TaRAS!");
             
         }
     }
